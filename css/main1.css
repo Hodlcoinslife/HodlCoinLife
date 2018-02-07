@@ -251,7 +251,7 @@ body {
   
 }
 .cta:hover{
-  background-color:#486a7b !important;
+  background-color:#f1b715 !important;
   border:2px solid transparent;
 }
 .cta:focus {
@@ -263,7 +263,7 @@ h2,
 h5,
 h1 {
   font-weight:300;
-  color: #486a7b;
+  color: #f1b715;
   	
 }
 h1 {
@@ -390,7 +390,7 @@ img {
   max-height: 50vh;
 }
 .faq-main-content h4{
-	color: white;
+	color: #f1b715;
 }
 .middle-content img.eos-logo {
   width: 235px;
