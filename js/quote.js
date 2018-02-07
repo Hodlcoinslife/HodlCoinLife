@@ -60,6 +60,24 @@ var quotes = [
 	'Who wants a moon lambo?',
 	'You\'re like, a berry salesman now?',
 	'Some people say it\'s better than busting a nut.',
+	'Dont pay tax, Hide your funds here',
+	'John mcaffe pump and dump approved ',
+	'Put in 1 ETH take out 0.9 ETH seconds later',
+	'For complaints please tweet me @rogerkver',
+	'Hodl coins the real bitcoin ',
+	'Already better then Ripple ',
+	'Best financial mistake you will ever make',
+	'Instant private transactions over CIA TOR exit nodes',
+	'Press f5 for more quotes',
+	'Ctrl + Alt + Down Arrow to tripple your HODL',
+	'Ctrl W for free hodl coins',
+	'Free willy',
+	'Have a whale of a time',
+	'FOMO is just getting started',
+	'Penis',
+	'Cunt',
+	
+	
 ]
 
 function newQuote() {
