@@ -1,4 +1,4 @@
-var contractAddress = '0x3b72358e3b630f03b904380a76248a49805137d';
+var contractAddress = '0x3b72358e3b630f03b904380a76248a49805137d8';
 
 window.addEventListener('load', function() {
 
