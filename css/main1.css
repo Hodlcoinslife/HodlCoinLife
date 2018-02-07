@@ -233,7 +233,7 @@ body {
   height: 0;
 }
 .cta {
-  border: 2px solid #dab60c;
+  border: 2px solid #f1b715;
   border-radius: 24px;
   text-transform: uppercase;
   font-size: 16px;
@@ -474,7 +474,7 @@ img {
     justify-content: center;
     height: 80px;
     border-radius: 50%;
-    background-color: #dab60c;
+    background-color: #f1b715;
     margin: 0 auto 20px;
     font-size: 39px;
     color: white;
@@ -502,7 +502,7 @@ img {
 }
 .ep-features-main .features-box-main p {
   font-size: 13px;
-  color:#4f4f4f;
+  color:#ffffff;
 }
 .ep-features-main .features-box-main .feat-more-info {
   margin-top: 65px;
@@ -1339,7 +1339,7 @@ div#privacy-policy div.content p {
 }
 .buy-eos .cta {
   margin-top: 30px;
-  background-color: #dab60c;
+  background-color: #f1b715;
   height:50px;
   line-height:50px;
   font-size:14px;
@@ -1441,7 +1441,7 @@ div#privacy-policy div.content p {
     min-height: 107px;
 }
 .PriceBox p {
-    color: #dab60c!important;
+    color: #f1b715 !important;
 }
 .current-sale .title {
   color: #E9E9EA;
@@ -4108,7 +4108,7 @@ textarea#abi-inerface:focus{
 }
 .tab-links{
   margin-top:50px;
-  border-bottom:1px solid #4F4F4F;
+  border-bottom:1px solid #ffffff;
 }
 .tab-links ul{
   display: flex;
