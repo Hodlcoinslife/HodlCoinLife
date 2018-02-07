@@ -76,6 +76,7 @@ var quotes = [
 	'FOMO is just getting started',
 	'Penis',
 	'Cunt',
+	'Guarenteed returns even during BTC turmoil',
 	
 	
 ]
