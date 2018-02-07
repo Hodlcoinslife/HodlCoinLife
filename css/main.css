@@ -419,7 +419,7 @@ img {
 }
 .ep-features-main {
   padding: 20px 0 60px;
- background:white;	
+ background:#4d4f55;	
 }
 .ep-features-main .features-description p:last-child {
   margin-bottom: 20px;
@@ -504,7 +504,7 @@ img {
 }
 .ep-features-main .features-box-main p {
   font-size: 13px;
-  color:#000000;
+  color:#ffffff;
 }
 .ep-features-main .features-box-main .feat-more-info {
   margin-top: 65px;
@@ -3958,7 +3958,7 @@ textarea#abi-inerface:focus{
   line-height: 100px;
   /*border-top: 1px solid rgba(255,255,255,0.14);*/
   position: relative;
-  background: white;
+  background: #4d4f55;
 }
 @media screen and (min-width: 768px) and (max-height: 670px){
   .banner-title h2{
