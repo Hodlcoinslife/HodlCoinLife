@@ -504,7 +504,7 @@ img {
 }
 .ep-features-main .features-box-main p {
   font-size: 13px;
-  color:#4f4f4f;
+  color:#ffffff;
 }
 .ep-features-main .features-box-main .feat-more-info {
   margin-top: 65px;
@@ -4099,7 +4099,7 @@ textarea#abi-inerface:focus{
 }
 .tab-links{
   margin-top:50px;
-  border-bottom:1px solid #4F4F4F;
+  border-bottom:1px solid #ffffff;
 }
 .tab-links ul{
   display: flex;
