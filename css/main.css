@@ -251,7 +251,7 @@ body {
   
 }
 .cta:hover{
-  background-color:#486a7b !important;
+  background-color:#f1b715 !important;
   border:2px solid transparent;
 }
 .cta:focus {
@@ -392,7 +392,7 @@ img {
   max-height: 50vh;
 }
 .faq-main-content h4{
-	color: #dab60c;
+	color: #f1b715;
 }
 .middle-content img.eos-logo {
   width: 235px;
@@ -1427,7 +1427,7 @@ div#privacy-policy div.content p {
 	background:#45474c;
 }
 .PriceBox {
-    background: #4c4e53;
+    background: #f1b715;
     margin: 10px;
     padding: 10px;
     min-height: 107px;
