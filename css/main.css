@@ -148,7 +148,7 @@ body {
   font-style: normal;
   font-size: 15px;
   line-height: 28px;
-  color: #FFFFF;
+  color: #ffffff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background:#111114;
@@ -392,7 +392,7 @@ img {
   max-height: 50vh;
 }
 .faq-main-content h4{
-	color: white;
+	color: #dab60c;
 }
 .middle-content img.eos-logo {
   width: 235px;
