@@ -5,7 +5,7 @@
 
 var quotes = [
 	'Partnered with Ethereum',
-	'Sponcered Unofficially by Bitcoin',
+	'Sponsered Unofficially by Bitcoin',
 	'What better place to put your childs\' college fund?.',
 	'Unofficially partnered with Ethereum',
 	'Unofficially partnered with AuzCoin',
@@ -77,7 +77,19 @@ var quotes = [
 	'Penis',
 	'Cunt',
 	'Guarenteed returns even during BTC turmoil',
-	
+	'Ya mums ya dad!',
+	'Get 10% on each buy and sell shared between HODLERS',
+	'Next Stop Marss!',
+	'Nissan Pulsars given away daily',
+	'Next Stop Marss!',
+	'Nissan Pulsars given away daily',
+	'Secret partners with CCA',
+	'Paid Shillers welcome',
+	'My mum said hodlcoin is cool',
+	'Pink Stocks - 50% commission motherfuckerrrrrr!',
+	'hodl4life',
+	'Get Rich or Dye HODLing',
+	'hodl4life',
 	
 ]
 
