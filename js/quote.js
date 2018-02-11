@@ -94,7 +94,10 @@ var quotes = [
 	'Oprah, Barbara Walters, your wife. You gotta fuck one, marry one, kill one, go!',
 	'As safe as buying bitcoin of MtGox',
 	'Hodl for life, Shelve that Nano',
-	
+	'Announcing an Announcment that were pleased to Announce officially we are partnered with TRON!',
+	'50% returns on the last week alone',
+	'1% ROI paid daily',
+	'Next 10 deposits get free ETH',
 	
 ]
 
